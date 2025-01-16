@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img src="https://p1.ce-ramos.cn/logo.png" width="150"/>
+<img src="https://github.com/RUZ-EX/CE-RAMOS/blob/main/logo.png?raw=true" width="150"/>
   <br>
   CE-RAMOS
   <br>
